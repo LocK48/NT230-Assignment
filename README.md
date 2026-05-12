@@ -1,4 +1,3 @@
-```markdown
 # Malware Analysis Project - NT230.Q22 (Nhóm 10)
 
 ## 📝 Giới thiệu chung
